@@ -12,7 +12,8 @@ const ThisProject = () => (
        and hosted with <a href="https://www.netlify.com/" rel="noopener noreferrer" target="_blank">Netlify</a>.
       It utilizes ES6 syntax, React, and React Router.
       <br/><br/>
-      Made with love. This project was created in hopes to help me, get with the times :)
+      Made with love. This project was created in hopes to help me, get with the times :)<br/><br/>
+    View this project on <a href="https://github.com/dzeignyc/getwiththetimes" rel="noopener noreferrer" target="_blank">Github</a>.
     </p>
   </section>
 
